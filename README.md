@@ -1,0 +1,2 @@
+# scrooge_coin
+assignement
